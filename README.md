@@ -7,7 +7,7 @@ Please Read to run hassle free execution of mrms_pro.exe Applicaton:
    Open : RMS_SOFT folder > double click/run > mrms_pro.exe 
 4. Any Changes Regarding you school administration :
     Open :  RMS_SOFT folder > resource folder > config.csv
-    (it will be open in excell sheet if you have ms office installed in your machine)
+    (this would be open in excell sheet if you have ms office installed in your machine)
     change/adjust tax rates / default margin/ discount/ expiry alert
     read carefully and edit accordingly , and then run mrms_pro.exe
     so, made any changes carefully in config.csv
