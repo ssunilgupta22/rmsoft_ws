@@ -2,7 +2,7 @@ Please Read to run hassle free execution of mrms_pro.exe Applicaton:
 
 1. First Install MySQL Server Database 5.5 version, 
 2. Installation Procedure is given in README.txt  after Download of 
-    MySQL Server 5.5 Database from www.rmsoft.tk 
+    MySQL Server 5.5 Database from www.rmssoft.co.in 
 3. After Successful complition of MySQL server 
    Open : RMS_SOFT folder > double click/run > mrms_pro.exe 
 4. Any Changes Regarding you school administration :
